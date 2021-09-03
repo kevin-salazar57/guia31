@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type=”text/css” href=ejercicio2b.css” ?>
+
+<!-- ejercicio2b.xml  sa16032 -->
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id="2" nombre="Sonsonate">
+    <cabecera>Sonsonate</cabecera>
+    <habitantes>71,541000</habitantes>
+    <altura>220 MSNM</altura>
+    <moneda>Dolar estadounidense</moneda>
+  </departamento>
+  <departamento id="3" nombre="Santa Ana">
+    <cabecera>Santa Ana</cabecera>
+    <habitantes>264,091</habitantes>
+    <altura>665 MSNM</altura>
+    <moneda>Dolar estadounidense</moneda>
+    <patrono>Señora Santa Ana</patrono>
+  </departamento>
+</pais>

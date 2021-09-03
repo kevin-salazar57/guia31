@@ -1,0 +1,12 @@
+/* ejercicio1b.css   sa16032  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+telefono {color:green; display:inline;} 
+email {color:blue; display:inline;} 
+url {color:black; display:inline;} 
+dui {color:black; display:inline;} 
+isss {color:black; display:inline;} 
+afp {color:black; display:inline;} 
