@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type=”text/css” href=”ejemplo2.css” ?>
+<?xml-stylesheet type="text/css" href="ejercicio2a.css" ?>
 <!-- ejercicio2a.xml  sa16032 -->
 <pais nombre="El Salvador">
   <departamento id="1" nombre="San Salvador">
